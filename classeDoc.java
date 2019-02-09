@@ -9,8 +9,10 @@ import java.util.LinkedList;
 
 /**
  *
- * @author JOUAL.A
+ * @author JOUAL.Anouar
  */
+
+
 public class classeDoc {
     
     private LinkedList document ;
